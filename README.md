@@ -1,2 +1,4 @@
 # hello-world
-This is a simple java hello world project
+This is a simple spring hello world project
+
+You need to have java 11 installed for this project
